@@ -1,3 +1,5 @@
+payload:
+  # > pt  
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,btschool.club
