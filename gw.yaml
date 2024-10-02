@@ -1,3 +1,4 @@
 payload:
   # > gw  
-  - DOMAIN-SUFFIX,binance.com
+  # - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-KEYWORD,binance
