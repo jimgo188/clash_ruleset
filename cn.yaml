@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-KEYWORD,binance
