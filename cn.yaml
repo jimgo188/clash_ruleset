@@ -14,6 +14,3 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-KEYWORD,binance
   - DOMAIN-KEYWORD,speedtest
-  - geosite:cn
-  - geoip:cn
-  - geoip:private
