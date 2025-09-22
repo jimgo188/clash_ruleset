@@ -2,3 +2,4 @@ payload:
   # > gw  
   # - DOMAIN-SUFFIX,binance.com
   # - DOMAIN-KEYWORD,binance
+  - DOMAIN-SUFFIX,iyf.tv
