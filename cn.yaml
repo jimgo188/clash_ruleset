@@ -13,5 +13,6 @@ payload:
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,jimgo.win
+  - DOMAIN-SUFFIX,openexchangerates.org
   - DOMAIN-KEYWORD,binance
   - DOMAIN-KEYWORD,speedtest
