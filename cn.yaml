@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,tts.jimgo.win
   - DOMAIN-SUFFIX,openexchangerates.org
   - DOMAIN-KEYWORD,binance
